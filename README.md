@@ -31,3 +31,27 @@ I'm a passionate problem-solver with a strong foundation in both software engine
 *   **Nurse Robot:** Built an autonomous STM32-robot using Thumb-2 Assembly for navigation and biometric monitoring.
 *   **Data Structures-Driven Restaurant Simulation:** Developed a discrete-time simulation system using Priority Queues and Lists to optimize order scheduling.
 *   **Flowchart Interpreter:** Developed a C++ OOP engine to interpret visual flowcharts and generate production-ready code.
+
+  <div align="center">
+
+### 👋 Hello, I'm Anton
+
+<!-- تأثير لعبة الثعبان -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AntonAzer/AntonAzer/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AntonAzer/AntonAzer/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AntonAzer/AntonAzer/output/github-contribution-grid-snake.svg">
+</picture>
+
+<div align="center">
+
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AntonAzer&theme=radical)](https://github.com/AntonAzer)
+
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntonAzer&theme=radical)](https://github.com/AntonAzer)
+
+</div>
+
+<!-- الرسم البياني الخطي للنشاط -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AntonAzer&theme=react-dark" alt="Anton's GitHub Activity Graph" width="100%"/>
+
+</div>
