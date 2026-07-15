@@ -32,7 +32,6 @@ I'm a passionate problem-solver with a strong foundation in both software engine
 *   **Data Structures-Driven Restaurant Simulation:** Developed a discrete-time simulation system using Priority Queues and Lists to optimize order scheduling.
 *   **Flowchart Interpreter:** Developed a C++ OOP engine to interpret visual flowcharts and generate production-ready code.
 
-الثعبان -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AntonAzer/AntonAzer/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AntonAzer/AntonAzer/output/github-contribution-grid-snake.svg">
