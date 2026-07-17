@@ -24,13 +24,6 @@ I'm a passionate problem-solver with a strong foundation in both software engine
 
 ---
 
-### Featured Projects
-
-*   **Pipelined RISC Processor Architecture:** Designed and validated a 5-stage pipelined processor using VHDL with an integrated hardware control unit.
-*   **E-Commerce Auction Platform:** Developed a full-stack eBay-like web application (Django/Python/JS) as part of Harvard's CS50W.
-*   **Nurse Robot:** Built an autonomous STM32-robot using Thumb-2 Assembly for navigation and biometric monitoring.
-*   **Data Structures-Driven Restaurant Simulation:** Developed a discrete-time simulation system using Priority Queues and Lists to optimize order scheduling.
-*   **Flowchart Interpreter:** Developed a C++ OOP engine to interpret visual flowcharts and generate production-ready code.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AntonAzer/AntonAzer/output/github-contribution-grid-snake-dark.svg">
