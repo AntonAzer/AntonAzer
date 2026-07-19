@@ -23,7 +23,7 @@ I'm a passionate problem-solver with a strong foundation in both software engine
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=jupyter&logoColor=white)
 
 **Tools & Software:**  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Keil](https://img.shields.io/badge/Keil-00519E?style=flat-square) ![ModelSim](https://img.shields.io/badge/ModelSim-00599C?style=flat-square) ![Multisim](https://img.shields.io/badge/Multisim-FFD200?style=flat-square&logoColor=black)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&white) ![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Keil](https://img.shields.io/badge/Keil-00519E?style=flat-square) ![ModelSim](https://img.shields.io/badge/ModelSim-00599C?style=flat-square) ![Multisim](https://img.shields.io/badge/Multisim-FFD200?style=flat-square&logoColor=black)
 
 ---
 
@@ -35,7 +35,14 @@ I'm a passionate problem-solver with a strong foundation in both software engine
 
 <div align="center">
 
-<!-- كارت الاستمرارية (Streak Stats) - ثابت ومستقر جداً -->
+<!-- كارت استمرارية جيتهاب -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=AntonAzer&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+<!-- كارت ليت كود الاحترافي باستخدام سيرفر LeetCard الداكن -->
+<a href="https://leetcode.com/u/AntonAzer/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/AntonAzer?theme=dark&font=Ubuntu" alt="LeetCode Stats" />
+</a>
 
 </div>
