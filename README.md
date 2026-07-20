@@ -40,6 +40,7 @@ I'm a passionate problem-solver with a strong foundation in both software engine
 
 <br/><br/>
 
+**LeetCode Status (Click For The Profile) :** 
 <!-- كارت ليت كود الاحترافي باستخدام سيرفر LeetCard الداكن -->
 <a href="https://leetcode.com/u/AntonAzer/" target="_blank">
   <img src="https://leetcard.jacoblin.cool/AntonAzer?theme=dark&font=Ubuntu" alt="LeetCode Stats" />
