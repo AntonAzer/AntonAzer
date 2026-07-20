@@ -35,6 +35,7 @@ I'm a passionate problem-solver with a strong foundation in both software engine
 
 <div align="center">
 
+**GitHub Status :** 
 <!-- كارت استمرارية جيتهاب -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=AntonAzer&theme=radical&hide_border=true" alt="GitHub Streak" />
 
