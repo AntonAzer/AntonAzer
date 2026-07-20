@@ -6,7 +6,7 @@ I'm a passionate problem-solver with a strong foundation in both software engine
 
 - Studying Computer Engineering at Cairo University (Expected 2029)
 - Proficient in Competitive Programming (Codeforces & LeetCode) under strict time constraints.
-- Bridging the gap between hardware (Verilog, Assembly, STM32) and modern web applications (React, Django, Node.js).
+- Bridging the gap between hardware (VHDL, Assembly, STM32) and modern web applications (React, Django, Node.js).
 - How to reach me: [LinkedIn](https://www.linkedin.com/in/anton-azer-0b804237a) or tonyazer86@gmail.com
 
 ---
