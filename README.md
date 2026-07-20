@@ -1,6 +1,6 @@
 # Hi, I'm Anton Azer
 
-### Computer Engineering Student @ Cairo University | Full-Stack & Embedded Systems Developer
+### Computer Engineering Student @ Cairo University | Full-Stack & Embedded Systems Developer | Digital Design Engineer
 
 I'm a passionate problem-solver with a strong foundation in both software engineering and hardware architecture. Ranked 5th nationwide in Thanawya Amma and currently maintaining a 3.83 GPA, I love tackling complex algorithmic challenges and building innovative digital and embedded solutions.
 
