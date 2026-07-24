@@ -53,6 +53,6 @@ I'm a passionate problem-solver with a strong foundation in both software engine
 
 </div>
 
-**Analytical Stats:**  
+
 Highly consistent problem-solver, frequently ranking in the Top 25 globally on LeetCode's Weekly Study Plan Leaderboards.  
- **Chess Rating:** ~2200 (Active player, applying deep pattern recognition and strategic logic to everyday software challenges).
+
