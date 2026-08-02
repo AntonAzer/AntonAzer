@@ -56,3 +56,5 @@ I'm a passionate problem-solver with a strong foundation in both software engine
 
 Highly consistent problem-solver, frequently ranking in the Top 25 globally on LeetCode's Weekly Study Plan Leaderboards.  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AntonAzer)](https://github.com/ryo-ma/github-profile-trophy)
+
