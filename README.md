@@ -7,7 +7,6 @@ I'm a passionate problem-solver with a strong foundation in both software engine
 - Studying Computer Engineering at Cairo University (Expected 2029)
 - Proficient in Competitive Programming (Codeforces & LeetCode) under strict time constraints.
 - Bridging the gap between hardware (VHDL, Assembly, STM32) and modern web applications (React, Django, Node.js).
-- How to reach me: [LinkedIn](https://www.linkedin.com/in/anton-azer-0b804237a) or tonyazer86@gmail.com
 
 ---
 
@@ -26,7 +25,7 @@ I'm a passionate problem-solver with a strong foundation in both software engine
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=jupyter&logoColor=white)
 
 **Tools & Software:**  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Keil](https://img.shields.io/badge/Keil-00519E?style=flat-square) ![ModelSim](https://img.shields.io/badge/ModelSim-00599C?style=flat-square) ![Multisim](https://img.shields.io/badge/Multisim-FFD200?style=flat-square&logoColor=black)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Keil](https://img.shields.io/badge/Keil-00519E?style=flat-square) ![ModelSim](https://img.shields.io/badge/ModelSim-00599C?style=flat-square) ![Multisim](https://img.shields.io/badge/Multisim-FFD200?style=flat-square&logoColor=black)
 
 ---
 
@@ -53,7 +52,4 @@ I'm a passionate problem-solver with a strong foundation in both software engine
 
 </div>
 
-
-Highly consistent problem-solver, frequently ranking in the Top 25 globally on LeetCode's Weekly Study Plan Leaderboards.  
-
-
+Highly consistent problem-solver, frequently ranking in the Top 25 globally on LeetCode's Weekly Study Plan Leaderboards.
