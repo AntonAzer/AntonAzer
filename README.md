@@ -2,12 +2,12 @@
 
 ### Computer Engineering Student @ Cairo University | Full-Stack & Embedded Systems Developer | Digital Design Engineer
 
-I'm a passionate problem-solver with a strong foundation in both software engineering and hardware architecture. Ranked 5th nationwide in Thanawya Amma(without repeating) and currently maintaining a 3.83 GPA, I love tackling complex algorithmic challenges and building innovative digital and embedded solutions.
+I'm a passionate problem-solver with a strong foundation in both software engineering and hardware architecture. Ranked 5th nationwide in Thanawya Amma (without repeating) and currently maintaining a 3.84 GPA, I love tackling complex algorithmic challenges and building innovative digital and embedded solutions.
 
-- Studying Computer Engineering at Cairo University (Expected 2029)
+- Ranked 1st in Competitive Programming at the Faculty of Engineering, Cairo University ([Rating - Codeforces](URL_HERE)).
+- Studying Computer Engineering at Cairo University (Expected 2029).
 - Proficient in Competitive Programming (Codeforces & LeetCode) under strict time constraints.
 - Bridging the gap between hardware (VHDL, Assembly, STM32) and modern web applications (React, Django, Node.js).
-
 ---
 
 ### Tech Stack & Tools
