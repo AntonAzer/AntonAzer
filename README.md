@@ -28,7 +28,6 @@ I'm a passionate problem-solver with a strong foundation in both software engine
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Keil](https://img.shields.io/badge/Keil-00519E?style=flat-square) ![ModelSim](https://img.shields.io/badge/ModelSim-00599C?style=flat-square) ![Multisim](https://img.shields.io/badge/Multisim-FFD200?style=flat-square&logoColor=black)
 
 ---
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AntonAzer/AntonAzer/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AntonAzer/AntonAzer/output/github-contribution-grid-snake.svg">
@@ -36,12 +35,15 @@ I'm a passionate problem-solver with a strong foundation in both software engine
 </picture>
 
 <div align="center">
+  
+  ------------------------------------
 
-**GitHub Status :** 
-<!-- كارت استمرارية جيتهاب -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AntonAzer&theme=radical&hide_border=true" alt="GitHub Streak" />
+**CodeForces Status:**
 
-<br/><br/>
+<img width="1352" height="402" alt="image" src="https://github.com/user-attachments/assets/fbb5fc3c-4abb-4ac4-ad7e-b16296aaabed" />
+
+------------------------------------
+
 
 **LeetCode Status (Click For The Profile) :** 
 
