@@ -13,6 +13,7 @@ I'm a passionate problem-solver with a strong foundation in both software engine
 - Ranked 1st in Competitive Programming at Cairo University - Faculty of Engineering, [Ranking List](https://codeforces.com/ratings/organization/8670).
 - Studying Computer Engineering at Cairo University (Expected 2029)
 - Bridging the gap between hardware (VHDL, Assembly, STM32) and modern web applications (React, Django, Node.js).
+  
 ---
 
 ### Tech Stack & Tools
