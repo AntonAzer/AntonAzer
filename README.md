@@ -14,7 +14,7 @@ I'm a passionate problem-solver with a strong foundation in both software engine
 - Studying Computer Engineering at Cairo University (Expected 2029)
 - Bridging the gap between hardware (VHDL, Assembly, STM32) and modern web applications (React, Django, Node.js).
   
----
+-----
 
 ### Tech Stack & Tools
 
