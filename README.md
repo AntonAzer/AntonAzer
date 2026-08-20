@@ -3,7 +3,7 @@
 
 
 
-### Computer Engineering Student @ Cairo University | Full-Stack & Embedded Systems Developer | Digital Design Engineer
+### Computer Engineering Student @ Cairo University | Full-Stack | Digital Design Engineer
 
 
 
