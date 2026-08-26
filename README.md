@@ -49,7 +49,7 @@ I'm a passionate problem-solver with a strong foundation in both software engine
 
 **CodeForces Status:**
 
-<img width="1352" height="402" alt="image" src="https://github.com/user-attachments/assets/fbb5fc3c-4abb-4ac4-ad7e-b16296aaabed" />
+<img width="1337" height="392" alt="image" src="https://github.com/user-attachments/assets/de459709-c2cf-4ded-b49c-a4de6284faba" />
 
 ------------------------------------
 
