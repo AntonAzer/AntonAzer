@@ -6,7 +6,6 @@
 
 
 
-
 I'm a passionate problem-solver with a strong foundation in both software engineering and hardware architecture. Ranked 5th nationwide in Thanawya Amma(without repeating), I love tackling complex algorithmic challenges and building innovative digital and embedded solutions.
 
 
