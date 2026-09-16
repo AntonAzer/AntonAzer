@@ -55,11 +55,9 @@ I'm a passionate problem-solver with a strong foundation in both software engine
 
 **LeetCode Status (Click For The Profile) :** 
 
-<!-- كارت ليت كود الاحترافي باستخدام سيرفر LeetCard الداكن -->
 <a href="https://leetcode.com/u/AntonAzer/" target="_blank">
   <img src="https://leetcard.jacoblin.cool/AntonAzer?theme=dark&font=Ubuntu" alt="LeetCode Stats" />
 </a>
 
 </div>
 
-Highly consistent problem-solver, frequently ranking in the Top 25 globally on LeetCode's Weekly Study Plan Leaderboards.
