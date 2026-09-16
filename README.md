@@ -46,14 +46,14 @@ I'm a passionate problem-solver with a strong foundation in both software engine
   
   ------------------------------------
 
-**CodeForces Status:**
+## CodeForces Status:
 
 <img width="1337" height="392" alt="image" src="https://github.com/user-attachments/assets/de459709-c2cf-4ded-b49c-a4de6284faba" />
 
 ------------------------------------
 
 
-**LeetCode Status (Click For The Profile) :** 
+## LeetCode Status (Click For The Profile) :
 
 <a href="https://leetcode.com/u/AntonAzer/" target="_blank">
   <img src="https://leetcard.jacoblin.cool/AntonAzer?theme=dark&font=Ubuntu" alt="LeetCode Stats" />
