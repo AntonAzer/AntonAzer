@@ -46,7 +46,7 @@ I'm a passionate problem-solver with a strong foundation in both software engine
   
   ------------------------------------
 
-## CodeForces Status:
+## [CodeForces Status](https://codeforces.com/profile/GOAT_CODE):
 
 <img width="1337" height="392" alt="image" src="https://github.com/user-attachments/assets/de459709-c2cf-4ded-b49c-a4de6284faba" />
 
